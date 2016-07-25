@@ -1,4 +1,4 @@
-FROM tireintel/apache-php:4.0
+FROM tireintel/apache-php:5.0
 MAINTAINER Hemerson Varela "hemerson.varela@tire-intelligence.com"
 
 # Define environment variables
